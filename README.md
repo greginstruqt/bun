@@ -34,12 +34,6 @@ At its core is the _Bun runtime_, a fast JavaScript runtime designed as a drop-i
 bun run index.tsx             # TS and JSX supported out of the box123
 ```
 
-<div>
-<a href="https://play.instruqt.com/gregorio-test/tracks/repo-playground-poc-bun/challenges/passing-tests/notes?auto_start=true">
-  <button><img src="https://i.ibb.co/qm4v2J6/intru.png"></button>
-</a>
-</div>
-
 ​​The `bun​` command-line tool also implements a test runner, script runner, and Node.js-compatible package manager. Instead of 1,000 node_modules for development, you only need `bun`. Bun's built-in tools are significantly faster than existing options and usable in existing Node.js projects with little to no changes.
 
 ```bash
@@ -48,6 +42,14 @@ bun run start                 # run the `start` script in `package.json`
 bun install <pkg>​             # install a package
 bunx cowsay 'Hello, world!'   # execute a package
 ```
+## Want to play around with Bun?
+
+Check out our playground and find out if Bun is for you.
+<div>
+<a href="https://play.instruqt.com/gregorio-test/tracks/repo-playground-poc-bun/challenges/passing-tests/notes?auto_start=true">
+  <button><img src="https://i.ibb.co/qm4v2J6/intru.png"></button>
+</a>
+</div>
 
 ## Install
 

@@ -31,8 +31,15 @@ Bun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a s
 At its core is the _Bun runtime_, a fast JavaScript runtime designed as a drop-in replacement for Node.js. It's written in Zig and powered by JavaScriptCore under the hood, dramatically reducing startup times and memory usage.
 
 ```bash
-bun run index.tsx             # TS and JSX supported out of the box
+bun run index.tsx             # TS and JSX supported out of the box123
 ```
+
+<div style="style="background-color: #4CAF50;">
+<a href="https://play.instruqt.com/gregorio-test/tracks/repo-playground-poc-bun/challenges/passing-tests/notes?auto_start=true">
+  <button><img src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9mZVwvMjM2MDExXC9wcm9qZWN0c1wvMzM4OTcyXC9hc3NldHNcLzhjXC82NTQ3MzE0XC8yNzFlMmNkMjM3MmJlYWE2OTdhOTc5YTRmOTUxMDliYS0xNjUxODQ0MjA4LnBuZyJ9:frontify:fNjPi5MHbyHRAN8wNIAULVEZmLFQGEZf0KAKfh2vnPM?width=498" ></button>
+Instruct Playground
+</a>
+</div>
 
 ​​The `bun​` command-line tool also implements a test runner, script runner, and Node.js-compatible package manager. Instead of 1,000 node_modules for development, you only need `bun`. Bun's built-in tools are significantly faster than existing options and usable in existing Node.js projects with little to no changes.
 

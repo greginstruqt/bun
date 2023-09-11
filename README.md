@@ -38,6 +38,8 @@ bun run index.tsx             # TS and JSX supported out of the box123
 <a href="https://play.instruqt.com/gregorio-test/tracks/repo-playground-poc-bun/challenges/passing-tests/notes?auto_start=true">
   <button><img src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC9mZVwvMjM2MDExXC9wcm9qZWN0c1wvMzM4OTcyXC9hc3NldHNcLzMzXC82NTQ3MzEzXC84MTk2MTM4NzZkMzcyNTU4NTRhYzZiZWMzODFmNzYwMy0xNjUxODQ0MjA4LnBuZyJ9:frontify:JBJBrHtC_kOKArtMiT6HWL2UBvx3nkS0nxaWfSiS_H8?width=200" ></button>
 <br>
+![intru](https://github.com/greginstruqt/bun/assets/141638762/056627d0-1196-4979-a9af-0b13ce10d409)
+
 <p>Instruct Playground</p> 
 <br>
 </a>

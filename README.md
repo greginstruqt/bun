@@ -36,7 +36,7 @@ bun run index.tsx             # TS and JSX supported out of the box123
 
 <div>
 <a href="https://play.instruqt.com/gregorio-test/tracks/repo-playground-poc-bun/challenges/passing-tests/notes?auto_start=true">
-  <button><img src="https://i.ibb.co/ngqkTgv/intru.png"></button>
+  <button><img src="https://i.ibb.co/qm4v2J6/intru.png"></button>
 </a>
 </div>
 

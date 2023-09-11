@@ -7,6 +7,7 @@
 <a href="https://bun.sh/discord" target="_blank"><img height=20 src="https://img.shields.io/discord/876711213126520882" /></a>
 <img src="https://img.shields.io/github/stars/oven-sh/bun" alt="stars">
 <a href="https://twitter.com/jarredsumner/status/1542824445810642946"><img src="https://img.shields.io/static/v1?label=speed&message=fast&color=success" alt="Bun speed" /></a>
+<a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh"><button><img src="https://i.ibb.co/qm4v2J6/intru.png" width="60"><img src="https://img.shields.io/badge/play-blue"></button></a>
 </p>
 
 <div align="center">
@@ -20,7 +21,7 @@
   <br />
 </div>
 
-### [Read the docs →](https://bun.sh/docs)
+### [Read the docs →](https://bun.sh/docs)  
 
 ## What is Bun?
 

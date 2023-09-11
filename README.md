@@ -46,7 +46,7 @@ bunx cowsay 'Hello, world!'   # execute a package
 
 Check out our playground and find out if Bun is for you.
 <div>
-<a href="https://play.instruqt.com/embed/gregorio-test/tracks/repo-playground-poc-bun?token=em_hXRPTI6f6oLxqYmU&auto_start=true">
+<a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh">
   <button><img src="https://i.ibb.co/qm4v2J6/intru.png"></button>
 </a>
 </div>

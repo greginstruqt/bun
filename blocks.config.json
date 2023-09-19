@@ -1,0 +1,10 @@
+[
+  {
+    "type": "file",
+    "id": "instruqt-playground-block",
+    "title": "Instruqt Repo Playground",
+    "description": "A hands-on playground to evaluate a project",
+    "entry": "blocks/instruqt-playground-block/index.tsx",
+    "matches": ["*"]
+  }
+]

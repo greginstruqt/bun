@@ -7,7 +7,7 @@ profile.json
 
 node_modules
 .swcrc
-yarn.lock
+#yarn.lock
 dist
 *.tmp
 *.log

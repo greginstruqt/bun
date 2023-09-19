@@ -1,6 +1,5 @@
-<p align="center">
-  <a href="https://bun.sh"><img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Logo" height=170></a>
-</p>
+<a href="https://bun.sh"><img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Logo" height=170></a>
+
 <h1 align="center">Bun</h1>
 
 <p align="center">
@@ -21,7 +20,7 @@
   <br />
 </div>
 
-### [Read the docs →](https://bun.sh/docs)  
+### [Read the docs →](https://bun.sh/docs)
 
 ## What is Bun?
 
@@ -43,19 +42,22 @@ bun run start                 # run the `start` script in `package.json`
 bun install <pkg>​             # install a package
 bunx cowsay 'Hello, world!'   # execute a package
 ```
+
 ## Want to play around with Bun?
 
 Check out our playground and find out if Bun is for you.
 
-<BlockComponent 
-    block={{"owner":"greginstruqt","repo":"blocks-template","id":"instruqt-playground-block","type":"file"}} 
-    height={640} 
-    width={1140} />
 <div>
 <a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh">
   <button><img src="https://i.ibb.co/qm4v2J6/intru.png"></button>
 </a>
 </div>
+
+## Repo Playground
+
+<BlockComponent
+block={{"owner":"greginstruqt","repo":"blocks-template","id":"instruqt-playground-block","type":"file"}}
+height={640} />
 
 ## Install
 

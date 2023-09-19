@@ -10,7 +10,8 @@
     "react": "next",
     "react-dom": "next",
     "source-map-js": "^1.0.2",
-    "typescript": "^5.0.2"
+    "typescript": "^5.0.2",
+    "@githubnext/blocks": "^2.3.5"
   },
   "private": true,
   "scripts": {
@@ -20,7 +21,10 @@
     "typecheck": "tsc --noEmit && cd test && bun run typecheck",
     "fmt": "prettier --write --cache './{src,test,bench,packages/{bun-types,bun-inspector-*,bun-vscode,bun-debug-adapter-protocol}}/**/*.{mjs,ts,tsx,js,jsx}'",
     "lint": "eslint './**/*.d.ts' --cache",
-    "lint:fix": "eslint './**/*.d.ts' --cache --fix"
+    "lint:fix": "eslint './**/*.d.ts' --cache --fix",
+    "start":"blocks start",
+    "start-https":"blocks start --https=true",
+    "build":"blocks build"
   },
   "devDependencies": {
     "@types/react": "^18.0.25",
@@ -30,4 +34,4 @@
   },
   "version": "0.0.0",
   "prettier": "./.prettierrc.cjs"
-}
+} 

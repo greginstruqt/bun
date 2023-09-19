@@ -46,6 +46,11 @@ bunx cowsay 'Hello, world!'   # execute a package
 ## Want to play around with Bun?
 
 Check out our playground and find out if Bun is for you.
+
+<BlockComponent 
+    block={{"owner":"greginstruqt","repo":"blocks-template","id":"instruqt-playground-block","type":"file"}} 
+    height={640} 
+    width={1140} />
 <div>
 <a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh">
   <button><img src="https://i.ibb.co/qm4v2J6/intru.png"></button>

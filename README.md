@@ -6,7 +6,7 @@
 <a href="https://bun.sh/discord" target="_blank"><img height=20 src="https://img.shields.io/discord/876711213126520882" /></a>
 <img src="https://img.shields.io/github/stars/oven-sh/bun" alt="stars">
 <a href="https://twitter.com/jarredsumner/status/1542824445810642946"><img src="https://img.shields.io/static/v1?label=speed&message=fast&color=success" alt="Bun speed" /></a>
-<a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh"><img src="https://img.shields.io/badge/Instruqt-200%20plays-blue.svg" alt="Playground plays" /></a>
+<a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh"><img src="https://img.shields.io/badge/playground%20plays-2k-blue.svg" alt="Playground plays" /></a>
 </p>
 
 <div align="center">

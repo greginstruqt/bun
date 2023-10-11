@@ -43,21 +43,14 @@ bun install <pkg>​             # install a package
 bunx cowsay 'Hello, world!'   # execute a package
 ```
 
-## Want to play around with Bun?
+## Try Bun
 
 Check out our playground and find out if Bun is for you.
-
 <div>
 <a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh">
-  <button><img src="https://i.ibb.co/qm4v2J6/intru.png"></button>
+  <img src="https://github.com/greginstruqt/bun/assets/141638762/f2e9ca65-fe89-474e-841b-ab4a95dde09e" />
 </a>
 </div>
-
-## Repo Playground
-
-<BlockComponent
-block={{"owner":"greginstruqt","repo":"blocks-template","id":"instruqt-playground-block","type":"file"}}
-height={640} />
 
 ## Install
 
@@ -98,6 +91,12 @@ bun upgrade --canary
 ```
 
 [View canary build](https://github.com/oven-sh/bun/releases/tag/canary)
+
+## Repo Playground
+
+<BlockComponent
+block={{"owner":"greginstruqt","repo":"blocks-template","id":"instruqt-playground-block","type":"file"}}
+height={640} />
 
 ## Quick links
 

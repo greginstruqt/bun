@@ -45,10 +45,10 @@ bunx cowsay 'Hello, world!'   # execute a package
 
 ## Playground - Try Bun!
 
-Check out our playground and find out if Bun is for you.
+Check out our <a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh">playground</a> and find out if Bun is for you.
 <div>
 <a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh">
-  <img src="https://github.com/greginstruqt/bun/assets/141638762/f2e9ca65-fe89-474e-841b-ab4a95dde09e" />
+<img src="https://i.ibb.co/D97Y9Jq/button.png" />
 </a>
 </div>
 

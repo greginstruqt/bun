@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/github/stars/oven-sh/bun" alt="stars">
 <a href="https://twitter.com/jarredsumner/status/1542824445810642946"><img src="https://img.shields.io/static/v1?label=speed&message=fast&color=success" alt="Bun speed" /></a>
 <a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh"><img src="https://img.shields.io/badge/playground%20plays-2k-blue.svg" alt="Playground plays" /></a>
+<a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh"><img src="https://img.shields.io/endpoint?url=https://dev-85y3727b95ph345.api.raw-labs.com/api/v1/git/plays" alt="Playground plays" /></a>
 </p>
 
 <div align="center">
@@ -43,7 +44,7 @@ bun install <pkg>​             # install a package
 bunx cowsay 'Hello, world!'   # execute a package
 ```
 
-## Try Bun
+## Playground - Try Bun!
 
 Check out our playground and find out if Bun is for you.
 <div>

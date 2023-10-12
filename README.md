@@ -7,7 +7,7 @@
 <a href="https://bun.sh/discord" target="_blank"><img height=20 src="https://img.shields.io/discord/876711213126520882" /></a>
 <img src="https://img.shields.io/github/stars/oven-sh/bun" alt="stars">
 <a href="https://twitter.com/jarredsumner/status/1542824445810642946"><img src="https://img.shields.io/static/v1?label=speed&message=fast&color=success" alt="Bun speed" /></a>
-<a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh"><img src="https://img.shields.io/endpoint?url=https://dev-85y3727b95ph345.api.raw-labs.com/api/v1/git/plays&v=1" alt="playground plays" /></a>
+<a href="https://play.instruqt.com/gregorio-test/invite/lrrcgkheb7jf"><img src="https://img.shields.io/endpoint?url=https://dev-85y3727b95ph345.api.raw-labs.com/api/v1/git/plays&v=1" alt="playground plays" /></a>
 </p>
 
 <div align="center">
@@ -46,9 +46,9 @@ bunx cowsay 'Hello, world!'   # execute a package
 
 ## Playground - Try Bun!
 
-Check out our <a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh">playground</a> and find out if Bun is for you.
+Check out our <a href="https://play.instruqt.com/gregorio-test/invite/lrrcgkheb7jf">playground</a> and find out if Bun is for you.
 <div>
-<a href="https://play.instruqt.com/gregorio-test/invite/uilgiorlcdqh">
+<a href="https://play.instruqt.com/gregorio-test/invite/lrrcgkheb7jf">
 <img src="https://i.ibb.co/D97Y9Jq/button.png" />
 </a>
 </div>
